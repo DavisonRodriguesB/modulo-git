@@ -7,7 +7,7 @@ tarefas relacionadas ao aprendizado de Git e GitHub.
 Seu objetivo é:
 - Criar uma issue para cada função.
 - Implementar a função em uma branch específica.
-- Fazer commit, criar tag e abrir Pull Reque
+- Fazer commit, criar tag e abrir Pull Reque..
 - Repetir o processo até concluir todas as funções...
 
 Boa sorte e bons commits! 🚀
