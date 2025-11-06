@@ -35,3 +35,6 @@ def verificar_tag_valida(tag):
 def gerar_relatorio_final(funcoes_concluidas):
     quantidade = len(funcoes_concluidas)
     return f"Desafio concluído! {quantidade} funções implementadas com sucesso."
+
+
+"""LAB FINAL"""
